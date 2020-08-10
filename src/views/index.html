@@ -1,0 +1,31 @@
+{{ define "index" }}
+
+  {{ template "header" }}
+    {{ template "menu"  }}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Student Id</th>
+            <th>Student Name</th>
+            <th>Location</th>
+            <th>View</th>
+            <th>Edit</th>
+        <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+  {{ range . }}
+        <tr>
+            <td data-label="Student ID">{{.Id }}</td>
+            <td data-label="Student Name">{{ .Name }}</td>
+            <td data-label="Location">{{ .City }}</td>
+            <td data-label=""><a href="/show?id={{ .Id }}" class="btn btn__active">View</a></td>
+            <td data-label=""><a href="/edit?id={{ .Id }}" class="btn btn__active">Edit</a></td>
+            <td data-label=""><a href="/delete?id={{ .Id }}" class="btn btn__active">Delete</a></td>
+        </tr>
+            {{end}}
+
+    </tbody>
+</table>
+{{ template "footer" }}
+{{ end }}
