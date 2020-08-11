@@ -1,4 +1,4 @@
-<a href="#"><img src="https://avatars1.githubusercontent.com/u/69083719?s=460&v=4"  alt="eliteimg"></a>
+<a href="#"><img src="https://media-exp1.licdn.com/dms/image/C5103AQEmwEiq7_8RZA/profile-displayphoto-shrink_200_200/0?e=1602720000&v=beta&t=cVNLZp3AiOQAhoNUVyIa9KCd-RTE5aK11Cev6Tr7pAc"  alt="eliteimg"></a>
 
 
 
@@ -70,7 +70,7 @@ Reach out to me at one of the following places!
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
-[![paypal](https://www.paypal.com/en_IN/i/scr/pixel.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sraveenvirat%40gmail.com&currency_code=USD&source=url)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sraveenvirat%40gmail.com&currency_code=USD&source=url)
 
 
 ---
