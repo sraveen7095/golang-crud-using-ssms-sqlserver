@@ -53,20 +53,20 @@ $ go run main.go
 ```
 
 
-
 ## Support
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
+- Website at <a href="http://www.immerciless.com" target="_blank">`immerciless.com`</a>
+- Twitter at <a href="https://twitter.com/Sraveen_shane" target="_blank">`@Sraveen_shane`</a>
+- Linkedin at <a href="https://www.linkedin.com/in/sraveen-virat-08b73115b/" target="_blank">`@sraveen-virat`</a>
+
 
 ---
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
-[![paytm-donation](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TWB5RHU74JEUU)
+[![paypal-donation](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/elite7095)
 
 
 ---
